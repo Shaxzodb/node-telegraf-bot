@@ -1,5 +1,5 @@
 
-const TOKEN='1630829893:AAGql7ucOG7BnPQJKVDohVkiuGOlVjcPcF8'
+const TOKEN=tokin
 
 const  Telegraf = require('telegraf')
 
